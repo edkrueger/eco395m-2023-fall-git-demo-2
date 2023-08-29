@@ -1,3 +1,3 @@
-echo HELLO WORLD
-
+echo Hello World!
+echo Edward
 echo $RANDOM
